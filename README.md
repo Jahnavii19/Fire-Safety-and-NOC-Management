@@ -1,6 +1,6 @@
-# 🔥 BLAZE — Building & Location Alert Zone Engine
+# 🔥 Fire Safety and NOC Management
 
-> **BLAZE** is a production-ready full-stack web platform for fire departments to manage NOC applications, track incidents in real-time, and issue QR-verified safety certificates.
+> **Fire Safety and NOC Management** is a production-ready full-stack web platform for fire departments to manage NOC applications, track incidents in real-time, and issue QR-verified safety certificates.
 
 🌐 **Live Demo**: [https://jahnavii19.github.io/blaze](https://jahnavii19.github.io/blaze)
 
