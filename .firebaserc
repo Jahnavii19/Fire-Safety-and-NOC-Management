@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "blaze-prod-be77b",
+    "staging": "your-firebase-staging-project-id"
+  }
+}
