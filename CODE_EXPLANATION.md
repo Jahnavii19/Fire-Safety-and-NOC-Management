@@ -1,4 +1,4 @@
-# 📖 BLAZE — Code Explanation
+# 📖 Project Code Explanation
 
 > A detailed, file-by-file guide to every piece of code in the **BLAZE** (*Building & Location Alert Zone Engine*) repository.
 
